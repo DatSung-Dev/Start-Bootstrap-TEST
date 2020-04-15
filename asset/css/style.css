@@ -368,6 +368,7 @@ footer p{
         flex-direction: column;
     }
     .content-three .row-2 .col-3{
+        height: calc(258px/3);
         width: 100%;
     }
     .content-five .contact-content{

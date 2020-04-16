@@ -358,7 +358,7 @@ footer p{
         flex-direction: column;
     }
     .start-page div h1{
-        font-size: 3rem;
+        font-size: 3.5rem;
     }
     .content-three{
         width: 100%;
@@ -375,5 +375,18 @@ footer p{
     }
     .content-five .contact-content{
         flex-direction: column;
+    }
+    .content-two .content-paragrap{
+        flex-direction: column;
+        height: auto;
+    }
+    .content-two{
+        height: 1300px;
+    }
+    .content-two h1{
+        margin-top: 20px;
+    }
+    .content-two .content-paragrap .item-content{
+        margin-bottom: 50px;
     }
 }
